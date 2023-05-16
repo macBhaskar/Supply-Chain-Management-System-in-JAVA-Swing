@@ -1,1 +1,1 @@
-# Supply-Chain-Management-System-in-JAVA-Swing
+# Supply-Chain-Management-System-in-JAVA-Swing-Using-Netbeans
